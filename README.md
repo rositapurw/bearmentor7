@@ -7,4 +7,4 @@ I am learning Full Stack Web by Bearmentor with M. Haidar Hanif.  I'm still a ne
 I started my journey with coding through a Coursera course, HTML, CSS, and Javascript for Web Developers, taught by Yaakov Chaikin from Johns Hopkins University. Since then, I've been diving deeper into the world of programming, with a focus on building interactive and functional websites.
 
 ## Find me on
-Telegram https://t.me/rositapurw
+[Telegram](https://t.me/rositapurw)
