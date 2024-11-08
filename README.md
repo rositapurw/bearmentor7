@@ -1,4 +1,5 @@
-![Screenshot 2024-11-04 185512](https://github.com/user-attachments/assets/21768acb-3982-4ba5-bd88-4d7d607d5a4f)
+![image](https://github.com/user-attachments/assets/350c4c38-add8-4a04-8f63-bff7dc453b45)
+
 
 
 # Hi, I'm Sita 👋 👩
